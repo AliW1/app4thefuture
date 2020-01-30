@@ -35,7 +35,7 @@ export default class App extends Component {
         />
         
         <Button
-          title={'Login'}
+          title={'Submit'}
           style={styles.input}
           onPress={this.onLogin.bind(this)}
         />
